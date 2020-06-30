@@ -1,1 +1,7 @@
-/melman das ist 1 zu 1 Damian
+echo "# Melman" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Spike67710/Melman.git
+git push -u origin master
+                
